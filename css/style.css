@@ -1,0 +1,12 @@
+/* 
+cream - font : #FFF5E4
+dark pink - decor/border : #850E35
+mid pink - bg : #EE6983
+light pink - general info: #FFC4C4
+ */
+
+.enConstruction{
+    color: darkred;
+    font-weight: bold;
+    font-size: 3rem;
+}

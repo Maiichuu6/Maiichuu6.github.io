@@ -1,0 +1,12 @@
+- [ ] Trouver une font sympa
+- [ ] Partie gauche fixe (hauteur vh)-  bord arrondi
+- [ ] Partie de droite défilante - bord arrondi
+- [ ] Mettre du box-shadow quelque part
+- [ ] Avoir un gap entre les deux parties, mise en évidence par le box shadows
+- [ ] Effet de zoom sur des éléments comportant des liens
+- [ ] Ajouter un favicon (une rose ?)
+- [ ] Penser le site mobile first (police en % ou rem/em)
+- [ ] Mettre des media queries
+- [ ] Footer fixe avec les liens pour mes reseaux et autres petits trucs
+- [ ] Mettre en évidence mon adresse mail ? 
+- [ ] 
