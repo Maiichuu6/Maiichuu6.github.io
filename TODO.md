@@ -9,4 +9,3 @@
 - [ ] Mettre des media queries
 - [ ] Footer fixe avec les liens pour mes reseaux et autres petits trucs
 - [ ] Mettre en évidence mon adresse mail ? 
-- [ ] 
