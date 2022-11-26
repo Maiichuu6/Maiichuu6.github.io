@@ -1,11 +1,16 @@
 /* 
-cream - font : #FFF5E4
-dark pink - decor/border : #850E35
-mid pink - bg : #EE6983
-light pink - general info: #FFC4C4
+Cream #FFF5E4
+Cark pink #850E35
+Mid pink #EE6983
+Light pink #FFC4C4
  */
 
- /* D'autres couleurs possible #FFE15D #B01E68 #DC3535 #F49D1A */
+ /* D'autres couleurs possible 
+Jaune soleil #FFE15D 
+Magenta foncé #B01E68 
+Rouge orangé #DC3535 
+Orange #F49D1A 
+ */
 
 .enConstruction{
     color: darkred;
@@ -17,20 +22,23 @@ light pink - general info: #FFC4C4
 
 
 body{
-    background-color: #FFC4C4;
+    background: linear-gradient(90deg, #FFE15D, #F49D1A);
+    height: 100vh;
+    font-family: 'Akshar', sans-serif;
 }
 
 #container{
     margin: auto;
     display: flex;
+    justify-content: center;
     gap: 2rem;
     height: 85vh;
-    width: 90vh;
+    width: 90vw;
 }
 
-#generalInformation, #parcours{
+#generalInformation, #parcours, #propositionProjet{
     background-color: #FFF5E4;
-    border: 2px solid #850E35;
+    border: 2px solid #DC3535;
     border-radius: 10px;
     box-shadow: 0px 0px 5px #474546;
     display: flex;
@@ -39,9 +47,13 @@ body{
     padding: 1rem;
 }
 
-/* Quelle largeur ? (en %) */
+.prenomNom, #title{
+    font-family: 'Allerta Stencil', sans-serif;
+}
 
-#generalInformation{
+/* Quelle largeur ? (en %), peut- être ne pas en mettre, elle s'adaptera avec le scontenu de mes sections */
+
+/* #generalInformation{
     width: 30%;
     
 }
@@ -49,11 +61,26 @@ body{
 #parcours{
     width: 70%;
     
+} */
+
+#parcours > div{
+    margin-bottom: 1rem;
 }
 
+h1{
+    font-size: 1.5rem;
+    color: #B01E68; 
+}
 
+h2, .prenomNom{
+    font-size: 1.2rem;
+    color: #B01E68;
+}
 
-
+.saisieTexte{
+    background-color: white;
+    border-radius: 5px;
+}
 
 footer{
     position: absolute;

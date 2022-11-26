@@ -1,11 +1,15 @@
 - [ ] Trouver une font sympa
 - [ ] Partie gauche fixe (hauteur vh)-  bord arrondi
 - [ ] Partie de droite défilante - bord arrondi
-- [ ] Mettre du box-shadow quelque part
-- [ ] Avoir un gap entre les deux parties, mise en évidence par le box shadows
+- [x] Mettre du box-shadow quelque part
+- [x] Avoir un gap entre les deux parties, mise en évidence par le box shadows
 - [ ] Effet de zoom sur des éléments comportant des liens
 - [ ] Ajouter un favicon (une rose ?)
 - [ ] Penser le site mobile first (police en % ou rem/em)
 - [ ] Mettre des media queries
 - [ ] Footer fixe avec les liens pour mes reseaux et autres petits trucs
 - [ ] Mettre en évidence mon adresse mail ? 
+- [ ] Ajouter une colonne supplémentaire à droite pour mettre un espace contact pour des projets (même si je ne sais pas comment faire une boite permettant d'écrire dedans)
+- [ ] Faire iun fond en dégradé vertical
+- [ ] Fond des sections en transparence
+- [ ] R2duire le nombre d'informations, car certaines ne sont plus pertinentes (trop vieille)
